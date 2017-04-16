@@ -5,6 +5,15 @@ public class Bitwise {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
+		/*
+		＆＝兩個都要一樣才行，01=0
+
+		|=只要有1就是1
+
+		^ = 兩個一樣為0   11=0 ; 00=0 ; 10=1
+
+
+		*/
 		        int i = 13;
 		        int j = 12;
 		 
