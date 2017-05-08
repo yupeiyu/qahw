@@ -1,7 +1,7 @@
 package oo;
 
 public class Tester {
-	
+	//測試排序Sort類別
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
