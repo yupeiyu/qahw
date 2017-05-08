@@ -1,7 +1,7 @@
 package oo;
 
 public class Sort {
-
+///泡沫排序整數,浮點數,字串 compareTo()
 	
 	 
     public void bubbleSort(int[] a) {
